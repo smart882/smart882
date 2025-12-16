@@ -8,9 +8,9 @@ I am a Data Analyst, proficient in Microsoft Excel,SQL and python. Currently wor
 
 - 😊 Pronouns: Her/she
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, CSS, JavaScript,and Reactjs.
+- 🌱 I’m currently learning Python, SQL, Power BI, Excel and R.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Data Analyst (Intern or Junior level).
+- 💼 Job interests: Sales Analyst, or Data Analyst (Intern or Junior level).
 - 📫 You can contact me by emailing smartjimmy584@gmail.com.
 
 ---
